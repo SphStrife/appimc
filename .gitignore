@@ -1,0 +1,16 @@
+# Ignorar carpeta de construcción
+/target/
+
+# Configuraciones privadas de NetBeans
+nbproject/private/
+
+# Archivos compilados
+*.class
+
+# Archivos temporales y de log
+*.log
+*.tmp
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db

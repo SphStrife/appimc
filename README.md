@@ -43,3 +43,5 @@ El funcionamiento completo del sistema se demuestra en el archivo de video entre
 Miguel Drivet  
 Computación Avanzada en Java  
 Junio 2025
+
+> Versión desarrollada por Drivet junio 2025.
